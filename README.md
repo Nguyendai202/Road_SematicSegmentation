@@ -5,7 +5,7 @@ detection road using FCN
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
 <p align="center">
- <img src="./img/example.png" alt="Overview" width="75%" height="75%">
+ <img src="data_road/um_000001.png" alt="Overview" width="75%" height="75%">
  <br>Qualitative results.
 </p>
 
